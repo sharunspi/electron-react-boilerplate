@@ -35,6 +35,18 @@ const Hello = () => {
             Donate
           </button>
         </a>
+        <a
+          href="https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button type="button">
+            <span role="img" aria-label="books">
+
+            </span>
+            Report a bug!
+          </button>
+        </a>
       </div>
     </div>
   );
